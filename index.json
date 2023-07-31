@@ -1,5 +1,6 @@
 {
     "payloads":{
-        ":ssrf":"./Payloads/ssrf/bypass.txt"
+        ":ssrf":"./Payloads/ssrf/bypass.txt",
+        ":temp":"Payloads/temp.txt"
     }
 }
