@@ -1,2 +1,1 @@
-# burpy
- 
+This repo contains Some of burp suite like tools written in Python

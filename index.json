@@ -1,0 +1,5 @@
+{
+    "payloads":{
+        ":ssrf":"./Payloads/ssrf/bypass.txt"
+    }
+}
