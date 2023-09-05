@@ -1,3 +1,0 @@
-C:\Users\sagil\AppData\Local\Programs\Python\Python311\Scripts
-use threading or async
-use config file and let the user choose which DB to use
